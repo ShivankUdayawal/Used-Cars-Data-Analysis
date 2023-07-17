@@ -11,7 +11,7 @@
 ### About Data
 The dataset was obtained from the Kaggle Vehicle dataset. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 13 columns and 8128 rows:
 
-name (str) - Name of the car
+|name (str)| - |Name of the car|
 year (int) - Year in which car was bought
 km_driven (int) - Number of kilometers the car is driven
 fuel (str) - Fuel type of the car
