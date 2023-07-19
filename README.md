@@ -10,7 +10,7 @@ The major aim of thie project is to gain insight into the Used Cars data to unde
 
 #
 ### About Data
-The dataset was obtained from the [Used Car Dataset](https://drive.google.com/file/d/1MPKiAUKdr1riZ5N_P_qyapXCcb5Jhih_/view). This dataset contains sales transactions from different branches of Used cars. The data contains 13 columns and 8128 rows:
+The dataset was obtained from the [Used Car Dataset](https://drive.google.com/file/d/1MPKiAUKdr1riZ5N_P_qyapXCcb5Jhih_/view). This dataset contains sales transactions from different branches of Used cars. The Used Cars Data project utilizes a dataset obtained from various websites that specialize in selling used cars. This dataset contains comprehensive information about each vehicle, including features that contribute to determining the selling price. The data contains 13 columns and 8128 rows:
 
 | Column | Description	| Data Type |
 | ------------- | ------------- | ------------- |
